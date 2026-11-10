@@ -1,2 +1,4 @@
 twosum
 .vscode
+*.o
+*.out
